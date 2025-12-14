@@ -11,9 +11,9 @@
 	<groupId>guro.springframework</groupId>
 	<artifactId>spring5-jokes-app-v2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>spring5-jokes-app-v2</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Chuck Norris Jokes</description>
 	<url/>
 	<licenses>
 		<license/>
